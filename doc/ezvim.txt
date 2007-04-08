@@ -1,0 +1,42 @@
+*ez.txt*   eZ Publish plugin for vim
+
+Author: Damien Pobel  (dpobel AT free DOT fr)
+For Vim version 6.0 and above
+Last change: 2007 April 07
+
+*ezvim* *ez.vim* *ez*
+
+1. eZVim intro									|ezvim-intro|
+2. Install										|ezvim-install|
+3. Configuration								|ezvim-configure|
+4. Classes view									|ezvim-cv|
+5. Abbreviations								|ezvim-ab|
+6. Todo											|ezvim-todo|
+
+
+==============================================================================
+1. eZVim intro													*ezvim-intro*
+TODO
+
+==============================================================================
+2. Install													*ezvim-install*
+TODO
+
+==============================================================================
+3. Configuration											*ezvim-configure*
+TODO
+
+==============================================================================
+4. Classes View											*ezvim-cv* *Ezcv* *cv*
+TODO
+
+==============================================================================
+5. Abbreviations								*ezvim-abb* *abbreviations*
+TODO
+
+==============================================================================
+5. Todo															*ezvim-todo*
+TODO
+
+==============================================================================
+vim:tw=78:fo=tcq2:

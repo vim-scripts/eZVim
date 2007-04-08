@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1859
+
+Features
+    * Classes View : a sidebar displaying group classes, classes and attributes of content object classes.
+    * Syntax highligthing for eZ Publish templates and ini files
+    * Some vim abbreviations for the eZ Publish template syntax.
+
+Requirements
+    * vim and python scripting support. Under Debian or Ubuntu, just install the vim-python package.
+    * eZ Publish with the eZDevtools extension.
+
+Tested with vim 7.1 under Ubuntu. It should work under any Unix. Not tested with others. 
+
+See project page http://projects.ez.no/ezvim for more.
