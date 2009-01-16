@@ -30,7 +30,7 @@ import xml.dom.minidom
 #    doc = eZLoadXML(eztcurl, {'template':tpl}, None, '')
 
 def eZClassesView(ezsite):
-    ezcvurl = ezsite + '/smileclasses/export'
+    ezcvurl = ezsite + '/devtools/classes'
     curbuf = vim.current.buffer
     curbuf[:] = None
     curbuf[0] = "Site: "+ezsite
